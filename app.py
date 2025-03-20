@@ -7,6 +7,7 @@ from scipy.stats import norm
 
 # Streamlit App Title
 st.title("📈 Monte Carlo Portfolio Simulation")
+st.title("Before running the stimulation, Click on fetch prices!")
 
 # Sidebar - Stock Selection
 st.sidebar.header("Simulation Parameters")
