@@ -113,4 +113,4 @@ if st.sidebar.button("Run Simulation"):
 
 # Footer
 st.markdown("---")
-st.markdown("💡 Built with Streamlit | 📊 Monte Carlo Portfolio Simulation")
+st.markdown("📊 Monte Carlo Portfolio Simulation")
